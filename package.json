@@ -1,0 +1,36 @@
+{
+  "name": "mediaFileCache",
+  "version": "1.0.0",
+  "description": "Cache files from the Internet",
+  "cordova": {
+    "id": "cordova-plugin-intel-xdk-cache",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaeloki/cordova-plugin-intel-xdk-cache.git"
+  },
+  "keywords": [
+    "cordova",
+    "cache",
+    "file",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Michael Oki",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/michaeloki/cordova-plugin-intel-xdk-cache"
+  },
+  "homepage": "https://github.com/michaeloki/cordova-plugin-intel-xdk-cache#readme"
+}
